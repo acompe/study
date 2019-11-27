@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c5f3121-ba32-4b34-8611-d731f8cf1058" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Git/3.git clone.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git/4.git tag.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git/5.git branch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git/6.git status.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git/7.git diff.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git/8.git add.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git/9.git commit.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/1.git config.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/1.git config.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/2.git long.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/2.git log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/9.git commit.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/9.git commit.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +89,7 @@
       <workItem from="1574339778840" duration="1062000" />
       <workItem from="1574415958974" duration="2067000" />
       <workItem from="1574821550816" duration="855000" />
-      <workItem from="1574839970101" duration="6567000" />
+      <workItem from="1574839970101" duration="6754000" />
     </task>
     <servers />
   </component>
