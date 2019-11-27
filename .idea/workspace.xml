@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c5f3121-ba32-4b34-8611-d731f8cf1058" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Git/1.git config.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/2.git long.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/1.项目初始化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarkDown/MarkDown学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/MarkDown/MarkDown学习.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -88,7 +89,8 @@
       <updated>1574339775720</updated>
       <workItem from="1574339778840" duration="1062000" />
       <workItem from="1574415958974" duration="2067000" />
-      <workItem from="1574821550816" duration="455000" />
+      <workItem from="1574821550816" duration="855000" />
+      <workItem from="1574839970101" duration="1396000" />
     </task>
     <servers />
   </component>
