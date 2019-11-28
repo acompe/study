@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c5f3121-ba32-4b34-8611-d731f8cf1058" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Git/17.git reset.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/18.git revert.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git/10.git pull.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/10.git pull.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/11.git checkout.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/11.git checkout.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/14.git push.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/14.git push.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/7.git diff.md" beforeDir="false" afterPath="$PROJECT_DIR$/Git/7.git diff.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
