@@ -1,4 +1,5 @@
 .DS_Store
 study.iml
 pom.xml
-.idea
+
+.idea/
