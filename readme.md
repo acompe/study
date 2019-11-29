@@ -4,8 +4,8 @@
 > MarkDown富文本编辑器，可以快速编辑带有格式的文本，并且在网站显示具有可移植性，是web常用的文本编辑格式。  
 > [MakrDown 学习笔记](https://github.com/acompe/study/blob/master/MarkDown/MarkDown%E5%AD%A6%E4%B9%A0.md)
 ## 2. Git版本控制工具
-> Git是程序员在团队开发过程中必不可少的工具。他可以协同程序员之间的开发，防止代码丢失、错乱。  
+> Git是程序员在团队开发过程中必不可少的工具。它可以协同程序员之间的开发，防止代码丢失、错乱。  
 > [Git 学习笔记](https://github.com/acompe/study/blob/master/Git/readme.md)
 ## 3. Maven
-> Maven可以通过简单的坐标就引入自己需要的jar包，快捷方便，防止过去因版本引入不同而引起的问题。
+> Maven可以通过简单的坐标就引入自己需要的jar包，快捷方便，防止过去因版本引入不同而引起的问题。  
 > [Maven 学习笔记](https://github.com/acompe/study/blob/master/Maven/readme.md)
