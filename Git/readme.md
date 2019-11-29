@@ -147,3 +147,4 @@
     - 可以通过git log查看日志。
     - 可以根据git log 查看提交ID。
 - [git log 仓库日志](https://github.com/acompe/study/blob/acompe/Git/2.git%20log.md)
+## 10 [Git 英文相关文档](https://github.com/acompe/study/blob/master/Git/github-git-cheat-sheet.pdf)
