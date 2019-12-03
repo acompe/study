@@ -12,7 +12,7 @@
     - 对数据库、表、索引、视图等操作的语言。
     - [相关介绍](https://github.com/acompe/study/blob/master/SQL/DDL/readme.md)
 - CCL指针控制语言
-    - 利用游标对数据库进行查询。
+    - 利用游标对数据库进行操作。
     - [相关介绍](https://github.com/acompe/study/blob/master/SQL/CCL/readme.md)
 - TPL事务处理语言
     - 对SQL操作过程进行原子化，保证其运行的原子行。
