@@ -25,3 +25,8 @@ WHERE 筛选条件
 ```sql
 TRUNCATE TABLE 表名;
 ```
+
+## 注意
+    - TRUNCATE 不支持事物回滚
+    - DELETE 支持事物回滚。
+    - DELETE 可以追加LIMIT ，进行分页删除。

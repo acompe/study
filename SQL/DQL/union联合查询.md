@@ -12,3 +12,4 @@ SELECT * FROM employees WHERE department_id >90
 ```
 - 注意：
     - UNION会自动去重，如果不想去重，则需要增加 UNION ALL 关键字。
+    - 
