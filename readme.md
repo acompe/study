@@ -12,3 +12,6 @@
 ## 4. SQL
 > SQL是对数据库操作的指令语句，对所有标准SQL数据库的均可正常使用。  
 >[SQL 学习笔记](https://github.com/acompe/study/blob/master/SQL/readme.md)
+## 5. MyBatis
+> MyBatis是对传统DAO层开发的简化，简化后将所有与驱动、连接、数据源、连接池等内容进行屏蔽，只需要通过部分配置，就可以正确快速的使用Java对数据进行增删改查。
+>[MyBatis 学习笔记](https://github.com/acompe/study/blob/master/MyBatis/readme.md)
