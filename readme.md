@@ -15,3 +15,6 @@
 ## 5. MyBatis
 > MyBatis是对传统DAO层开发的简化，简化后将所有与驱动、连接、数据源、连接池等内容进行屏蔽，只需要通过部分配置，就可以正确快速的使用Java对数据进行增删改查。  
 > [MyBatis 学习笔记](https://github.com/acompe/study/blob/master/MyBatis/readme.md)
+## 6. Spring
+> Spring框架利用IOC容器，简化了传统的j2ee开发流程，并且通过AOP，实现了横向开发过程。  
+> [Spring 学习笔记](https://github.com/acompe/study/blob/master/Spring/readme.md)
