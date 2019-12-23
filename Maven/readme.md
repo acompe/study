@@ -80,3 +80,18 @@
 - 模版支持
     - Live Template
         - 可以快速定义模版并引入。
+## 9.文件过滤
+```xml
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+    </build>
+```
