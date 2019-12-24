@@ -17,4 +17,7 @@
 > [MyBatis 学习笔记](https://github.com/acompe/study/blob/master/MyBatis/readme.md)
 ## 6. Spring
 > Spring框架利用IOC容器，简化了传统的j2ee开发流程，并且通过AOP，实现了横向开发过程。  
-> [Spring 学习笔记](https://github.com/acompe/study/blob/master/Spring/readme.md)
+> [Spring 学习笔记](https://github.com/acompe/study/blob/master/Spring/readme.md) 
+## 7. SpringMVC
+> SpringMVC框架是Spring家族针对javaWeb编写的框架，通过映射器、适配器、视图解析器等简化开发人员操作。  
+> [SPringMVC 学习笔记](https://github.com/acompe/study/blob/master/SpringMVC/readme.md)
