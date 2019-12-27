@@ -84,6 +84,23 @@
     <property name="suffix" value=".jsp"/>
 </bean>
 ```
+- 防止JSON乱码
+```xml
+<mvc:annotation-driven>
+    <mvc:message-converters register-defaults="true">
+        <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+            <constructor-arg value="UTF-8"/>
+        </bean>
+        <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+            <property name="objectMapper">
+                <bean class="org.springframework.http.converter.json.Jackson2ObjectMapperFactoryBean">
+                    <property name="failOnEmptyBeans" value="false"/>
+                </bean>
+            </property>
+        </bean>
+    </mvc:message-converters>
+</mvc:annotation-driven>
+```
 - Controller配置
     - 此内容配置后，在不配置映射器、适配器的情况下，SpringMVC会选择默认配置。
 ```xml
@@ -109,6 +126,22 @@
     <!--后缀-->
     <property name="suffix" value=".jsp"/>
 </bean>
+
+<mvc:annotation-driven>
+    <mvc:message-converters register-defaults="true">
+        <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+            <constructor-arg value="UTF-8"/>
+        </bean>
+        <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+            <property name="objectMapper">
+                <bean class="org.springframework.http.converter.json.Jackson2ObjectMapperFactoryBean">
+                    <property name="failOnEmptyBeans" value="false"/>
+                </bean>
+            </property>
+        </bean>
+    </mvc:message-converters>
+</mvc:annotation-driven>
+
 </beans>
 ```
 # 3. Java使用
