@@ -8,7 +8,17 @@
 - 代理（Proxy）
 - 切入点（PointCut）
 - 连接点（JoinPoint）
+
 # 配置文件方式切入
+- 导入Spring AOP相关jar包
+```xml
+<dependency>
+    <groupId>org.aspectj</groupId>
+    <artifactId>aspectjweaver</artifactId>
+    <version>1.9.4</version>
+</dependency>
+```
+
 - 官方方式切入
     - 编写配置文件
     ```xml
